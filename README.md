@@ -113,11 +113,6 @@ Increase customer lifetime value (CLV)
 
 ## 📁 Project Files
 
-- 📊 Power BI File:  
-https://github.com/<hemalatha-analyst>/<repo>/blob/main/Customer_Segmentation_Retention_Analytics.pbix
-
-- 📷 Dashboard Image:  
-https://github.com/<hemalatha-analyst>/<repo>/blob/main/Dashboard_Overview.png
-
-- 📊 Dataset:  
-https://github.com/<hemalatha-analyst>/<repo>/blob/main/customer_segmentation_dataset.csv
+Customer_Segmentation_Retention_Analytics.pbix
+Dashboard_Overview.png
+customer_segmentation_dataset.csv

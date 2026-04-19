@@ -1,0 +1,101 @@
+Customer ID,Customer Name,Age,Gender,City,Occupation,Income Level,Join Date,Last Purchase Date,Purchase Frequency,Average Order Value,Total Spend,Preferred Product Category,Purchase Channel,Customer Type,Engagement Score,Satisfaction Score,Retention Status,Customer Segment,Loyalty Tier
+C001,Rahul,60,Female,Hyderabad,Manager,High,2022-08-16,2022-12-19,13,3907,50791,Electronics,Online,Returning,74,7,Churned,Medium Value,Bronze
+C002,Kiran,40,Male,Delhi,Engineer,Low,2023-01-21,2024-04-09,5,3457,17285,Electronics,Online,New,8,10,Churned,Low Value,Silver
+C003,Kiran,35,Male,Delhi,Engineer,High,2022-04-10,2023-08-10,10,3818,38180,Beauty,Online,Returning,4,8,At Risk,High Value,Gold
+C004,Vikram,21,Female,Chennai,Manager,Low,2023-03-18,2024-01-07,8,3136,25088,Grocery,Offline,New,74,2,Churned,High Value,Bronze
+C005,Amit,40,Female,Delhi,Doctor,Low,2023-09-30,2024-04-04,3,1212,3636,Grocery,Offline,Returning,69,4,Churned,Low Value,Bronze
+C006,Vikram,51,Male,Chennai,Engineer,Low,2022-11-12,2024-06-14,17,3230,54910,Electronics,Offline,Returning,60,9,Retained,High Value,Silver
+C007,Rahul,35,Male,Delhi,Doctor,Low,2023-04-01,2024-01-29,14,3306,46284,Grocery,App,Returning,54,10,At Risk,Low Value,Silver
+C008,Vikram,50,Male,Chennai,Student,High,2022-03-12,2023-04-11,9,3140,28260,Grocery,Offline,New,49,7,Churned,High Value,Gold
+C009,Ravi,54,Female,Hyderabad,Analyst,High,2023-11-17,2024-08-02,4,3229,12916,Home,Online,Returning,8,2,Retained,High Value,Gold
+C010,Anjali,58,Male,Chennai,Student,Low,2023-09-18,2024-10-06,9,3558,32022,Grocery,Online,New,98,10,At Risk,Medium Value,Bronze
+C011,Neha,34,Female,Hyderabad,Student,Low,2023-06-01,2023-09-05,5,512,2560,Grocery,Online,Returning,85,9,Churned,Low Value,Silver
+C012,Divya,33,Female,Hyderabad,Analyst,Medium,2022-11-14,2023-04-17,4,4272,17088,Fashion,Online,New,62,3,At Risk,Low Value,Bronze
+C013,Anjali,41,Female,Chennai,Manager,Low,2023-06-29,2023-12-02,10,2489,24890,Electronics,Offline,Returning,43,10,At Risk,Medium Value,Gold
+C014,Rahul,18,Male,Bangalore,Engineer,Medium,2023-07-10,2023-08-14,8,1019,8152,Fashion,Offline,Returning,30,4,At Risk,Medium Value,Silver
+C015,Kiran,57,Female,Mumbai,Analyst,Medium,2023-05-20,2024-06-12,2,4783,9566,Electronics,App,New,65,5,At Risk,Medium Value,Bronze
+C016,Vikram,22,Female,Delhi,Analyst,Medium,2023-09-25,2024-04-26,11,959,10549,Grocery,App,Returning,60,10,Churned,Low Value,Silver
+C017,Rahul,21,Male,Delhi,Engineer,High,2022-07-26,2023-08-16,14,1111,15554,Home,App,New,87,6,Retained,High Value,Bronze
+C018,Anjali,36,Female,Mumbai,Engineer,Low,2023-12-21,2024-07-05,7,2384,16688,Home,App,New,60,7,At Risk,High Value,Silver
+C019,Rahul,45,Female,Hyderabad,Engineer,Medium,2022-11-10,2023-06-17,13,1947,25311,Electronics,Online,Returning,37,6,Retained,High Value,Gold
+C020,Amit,32,Female,Hyderabad,Manager,Low,2023-05-18,2023-09-02,2,4422,8844,Grocery,App,Returning,44,3,Churned,Low Value,Silver
+C021,Sneha,45,Male,Delhi,Manager,High,2022-10-12,2023-02-11,19,4625,87875,Electronics,App,Returning,22,5,At Risk,Medium Value,Silver
+C022,Pooja,43,Female,Chennai,Engineer,Low,2023-11-30,2025-05-16,2,2943,5886,Grocery,App,New,81,3,At Risk,High Value,Gold
+C023,Divya,30,Female,Delhi,Doctor,Medium,2023-05-31,2024-08-13,15,727,10905,Electronics,Online,New,39,8,Retained,Low Value,Gold
+C024,Anjali,52,Male,Hyderabad,Student,High,2022-11-20,2024-03-23,6,4657,27942,Home,Offline,New,41,4,Churned,High Value,Silver
+C025,Kiran,32,Male,Bangalore,Doctor,High,2023-02-26,2023-04-19,7,1077,7539,Electronics,App,Returning,58,1,Churned,Medium Value,Bronze
+C026,Kiran,33,Female,Hyderabad,Doctor,High,2023-08-07,2023-09-24,17,706,12002,Grocery,Online,Returning,48,5,Churned,High Value,Bronze
+C027,Sneha,54,Female,Delhi,Analyst,Low,2022-11-25,2023-03-09,2,3611,7222,Grocery,App,New,23,5,Retained,High Value,Bronze
+C028,Divya,47,Male,Mumbai,Engineer,High,2023-03-06,2023-05-03,8,1584,12672,Fashion,Offline,Returning,39,4,Retained,Low Value,Bronze
+C029,Anjali,38,Female,Delhi,Engineer,Medium,2023-02-18,2023-12-10,1,3931,3931,Fashion,Offline,Returning,21,3,At Risk,High Value,Gold
+C030,Sneha,40,Female,Delhi,Doctor,High,2022-06-19,2023-03-13,13,1004,13052,Fashion,Offline,New,31,1,Retained,High Value,Silver
+C031,Kiran,35,Male,Hyderabad,Manager,High,2023-03-09,2024-03-17,4,3577,14308,Fashion,App,New,19,2,At Risk,Medium Value,Silver
+C032,Sneha,27,Female,Bangalore,Doctor,High,2022-10-21,2023-02-21,19,1834,34846,Beauty,Online,Returning,36,7,At Risk,Low Value,Silver
+C033,Vikram,58,Male,Chennai,Engineer,Low,2023-11-07,2023-12-25,14,2771,38794,Electronics,Online,New,66,4,At Risk,Low Value,Bronze
+C034,Divya,39,Male,Chennai,Engineer,Medium,2023-07-18,2024-05-05,7,2874,20118,Home,Online,New,37,5,At Risk,Medium Value,Gold
+C035,Amit,51,Female,Chennai,Doctor,Low,2022-07-05,2024-01-06,16,4800,76800,Grocery,App,Returning,32,1,Retained,Medium Value,Gold
+C036,Sneha,39,Male,Delhi,Student,Low,2024-01-20,2024-11-28,4,1226,4904,Fashion,Online,New,14,9,Churned,Medium Value,Silver
+C037,Amit,23,Female,Bangalore,Student,High,2022-12-08,2024-05-10,11,1264,13904,Fashion,Offline,New,85,1,At Risk,Medium Value,Bronze
+C038,Pooja,31,Female,Bangalore,Doctor,Low,2023-12-21,2024-02-08,9,2246,20214,Beauty,Online,Returning,55,2,At Risk,Medium Value,Silver
+C039,Vikram,21,Female,Bangalore,Manager,Medium,2022-03-26,2022-05-07,2,4185,8370,Electronics,Offline,New,57,3,At Risk,Medium Value,Silver
+C040,Kiran,18,Female,Bangalore,Doctor,Low,2022-07-04,2023-04-25,8,2836,22688,Fashion,App,Returning,26,1,Retained,High Value,Bronze
+C041,Ravi,29,Female,Delhi,Analyst,Medium,2022-02-18,2022-09-24,11,1009,11099,Beauty,Online,Returning,91,10,Retained,Medium Value,Gold
+C042,Amit,21,Male,Bangalore,Engineer,High,2023-06-04,2024-04-09,14,1364,19096,Grocery,App,New,35,7,Retained,High Value,Silver
+C043,Sneha,25,Female,Delhi,Student,Low,2022-08-11,2023-04-08,16,3237,51792,Electronics,App,New,1,10,At Risk,High Value,Gold
+C044,Neha,22,Male,Hyderabad,Engineer,Low,2023-03-30,2024-07-03,5,1896,9480,Electronics,App,New,3,1,Retained,High Value,Bronze
+C045,Ravi,33,Female,Delhi,Engineer,High,2023-04-09,2024-06-16,8,636,5088,Fashion,Online,New,52,9,Retained,Medium Value,Bronze
+C046,Ravi,18,Female,Delhi,Doctor,High,2023-01-20,2023-09-06,8,2648,21184,Fashion,Offline,New,60,5,At Risk,Medium Value,Bronze
+C047,Pooja,48,Female,Bangalore,Engineer,Medium,2022-01-07,2023-07-08,20,4086,81720,Beauty,Offline,Returning,30,2,Churned,High Value,Gold
+C048,Neha,37,Male,Delhi,Manager,Medium,2023-09-20,2025-04-07,16,3270,52320,Grocery,Offline,Returning,70,2,Retained,Low Value,Gold
+C049,Sneha,36,Female,Chennai,Analyst,High,2022-02-09,2023-09-11,9,1536,13824,Home,App,Returning,87,5,At Risk,Medium Value,Silver
+C050,Sneha,22,Male,Hyderabad,Manager,High,2023-09-14,2024-05-27,1,4006,4006,Grocery,App,New,12,5,At Risk,High Value,Silver
+C051,Vikram,33,Male,Bangalore,Engineer,High,2022-09-05,2023-04-22,5,4499,22495,Electronics,App,Returning,83,6,Churned,Low Value,Bronze
+C052,Neha,24,Male,Chennai,Engineer,High,2022-04-06,2022-05-06,4,2267,9068,Electronics,Online,Returning,13,9,Churned,High Value,Silver
+C053,Ravi,46,Female,Mumbai,Manager,Low,2023-02-04,2023-07-20,6,1160,6960,Grocery,Offline,New,64,5,Churned,Low Value,Silver
+C054,Divya,59,Female,Hyderabad,Manager,Low,2022-11-02,2023-02-15,11,3184,35024,Grocery,Offline,New,16,4,Retained,High Value,Gold
+C055,Divya,45,Female,Chennai,Manager,Low,2022-08-08,2024-01-06,5,597,2985,Fashion,Online,New,49,9,Churned,Medium Value,Silver
+C056,Amit,37,Female,Hyderabad,Manager,Medium,2022-11-03,2022-12-11,4,1510,6040,Beauty,Online,New,17,3,Retained,Low Value,Silver
+C057,Kiran,57,Female,Delhi,Analyst,High,2023-12-22,2024-03-06,4,2826,11304,Fashion,App,Returning,77,9,Churned,High Value,Bronze
+C058,Rahul,41,Male,Delhi,Engineer,Medium,2023-03-11,2024-01-25,8,3653,29224,Beauty,Online,Returning,45,5,Retained,Low Value,Gold
+C059,Rahul,54,Male,Chennai,Engineer,Medium,2022-09-08,2023-02-06,15,4632,69480,Home,App,New,43,2,At Risk,High Value,Silver
+C060,Ravi,52,Male,Chennai,Doctor,High,2022-03-22,2022-06-19,14,2774,38836,Home,App,Returning,65,8,Churned,Low Value,Bronze
+C061,Ravi,24,Female,Delhi,Analyst,Medium,2023-02-25,2023-07-09,13,792,10296,Beauty,Offline,Returning,96,1,Churned,High Value,Silver
+C062,Neha,50,Male,Chennai,Student,High,2023-02-17,2023-05-21,1,1133,1133,Fashion,Online,Returning,30,2,Churned,Medium Value,Bronze
+C063,Rahul,25,Female,Mumbai,Manager,Medium,2022-11-27,2024-05-04,1,3529,3529,Fashion,App,Returning,36,2,Churned,Medium Value,Silver
+C064,Amit,44,Male,Chennai,Analyst,High,2023-06-27,2024-01-19,18,3536,63648,Grocery,App,Returning,12,7,At Risk,Low Value,Gold
+C065,Ravi,49,Male,Chennai,Engineer,Low,2022-08-21,2022-10-26,16,3489,55824,Home,App,New,20,3,Churned,Medium Value,Gold
+C066,Anjali,45,Male,Bangalore,Engineer,Medium,2023-10-22,2024-10-20,13,1235,16055,Beauty,Offline,Returning,67,2,Retained,High Value,Silver
+C067,Ravi,60,Male,Mumbai,Manager,High,2022-02-25,2022-12-28,10,2208,22080,Electronics,Online,Returning,11,8,At Risk,Low Value,Bronze
+C068,Kiran,30,Male,Bangalore,Engineer,Low,2023-09-03,2024-05-24,2,2122,4244,Beauty,Online,Returning,25,7,Retained,Low Value,Bronze
+C069,Pooja,43,Female,Hyderabad,Analyst,Medium,2022-07-17,2023-06-10,17,4023,68391,Home,Offline,Returning,74,9,At Risk,Medium Value,Bronze
+C070,Neha,24,Female,Mumbai,Doctor,Low,2023-06-03,2023-11-16,18,1200,21600,Grocery,Online,Returning,32,4,Retained,Medium Value,Bronze
+C071,Anjali,44,Male,Delhi,Engineer,High,2023-09-29,2024-02-02,13,3238,42094,Electronics,Offline,New,20,7,At Risk,High Value,Bronze
+C072,Kiran,34,Female,Chennai,Engineer,High,2022-11-03,2022-12-08,10,1217,12170,Fashion,Offline,New,5,5,Retained,Low Value,Gold
+C073,Kiran,36,Male,Bangalore,Doctor,Medium,2022-08-23,2024-02-28,20,2283,45660,Electronics,Online,Returning,73,2,At Risk,Low Value,Silver
+C074,Amit,47,Male,Hyderabad,Analyst,Medium,2022-04-28,2022-09-19,7,4413,30891,Fashion,Online,Returning,69,5,At Risk,High Value,Silver
+C075,Ravi,37,Male,Chennai,Analyst,Medium,2023-01-21,2023-03-31,10,3873,38730,Fashion,Offline,New,83,4,Churned,High Value,Gold
+C076,Ravi,44,Female,Mumbai,Student,Medium,2022-11-01,2023-12-30,20,2908,58160,Fashion,Online,Returning,48,4,Retained,High Value,Bronze
+C077,Amit,59,Male,Chennai,Manager,Medium,2023-08-29,2025-02-01,8,4019,32152,Home,App,New,28,10,At Risk,Low Value,Silver
+C078,Neha,44,Female,Delhi,Analyst,Medium,2023-09-30,2024-02-19,11,934,10274,Home,App,Returning,100,6,Retained,High Value,Bronze
+C079,Kiran,21,Male,Hyderabad,Analyst,Low,2023-07-03,2023-11-16,16,1740,27840,Fashion,App,New,94,7,At Risk,High Value,Gold
+C080,Sneha,32,Male,Chennai,Doctor,Low,2022-12-12,2024-04-22,8,2632,21056,Home,App,New,100,3,At Risk,Medium Value,Silver
+C081,Sneha,20,Male,Chennai,Engineer,Medium,2022-11-24,2023-03-22,14,4183,58562,Electronics,App,New,78,2,Churned,High Value,Silver
+C082,Neha,27,Male,Chennai,Analyst,Low,2023-12-11,2025-07-11,8,3147,25176,Beauty,Online,New,67,1,Retained,Medium Value,Gold
+C083,Neha,53,Female,Mumbai,Student,Low,2023-08-15,2024-09-19,11,3053,33583,Home,Offline,New,50,6,At Risk,High Value,Gold
+C084,Vikram,18,Female,Mumbai,Student,Low,2023-10-03,2025-05-10,3,3417,10251,Grocery,Offline,Returning,7,1,Retained,Low Value,Gold
+C085,Rahul,32,Female,Mumbai,Analyst,Medium,2023-01-21,2024-03-01,4,1347,5388,Fashion,Online,Returning,48,9,Churned,Medium Value,Silver
+C086,Kiran,44,Female,Hyderabad,Analyst,Medium,2023-05-21,2024-04-24,9,2673,24057,Fashion,App,Returning,74,5,At Risk,High Value,Silver
+C087,Neha,53,Female,Hyderabad,Engineer,Low,2022-03-31,2022-06-12,2,3396,6792,Grocery,Offline,Returning,91,4,Retained,Low Value,Gold
+C088,Ravi,32,Female,Chennai,Manager,Low,2023-02-22,2023-08-03,11,4997,54967,Electronics,Offline,New,6,5,Churned,Low Value,Gold
+C089,Anjali,46,Female,Bangalore,Engineer,Medium,2024-01-05,2024-06-16,19,900,17100,Beauty,Online,Returning,34,5,At Risk,Low Value,Silver
+C090,Ravi,30,Male,Delhi,Engineer,High,2022-06-25,2023-11-02,4,3150,12600,Electronics,Online,Returning,33,5,Churned,Low Value,Bronze
+C091,Vikram,41,Male,Delhi,Doctor,Low,2022-10-12,2023-05-19,15,1595,23925,Fashion,App,New,79,4,Churned,Low Value,Bronze
+C092,Pooja,41,Female,Mumbai,Student,Low,2022-08-07,2023-07-03,14,1527,21378,Grocery,Online,Returning,92,10,Churned,Low Value,Bronze
+C093,Sneha,28,Female,Hyderabad,Student,Low,2022-11-03,2023-08-26,13,4415,57395,Grocery,App,Returning,10,3,Retained,Low Value,Silver
+C094,Amit,56,Male,Hyderabad,Doctor,High,2023-08-29,2024-05-17,17,1966,33422,Grocery,App,Returning,83,7,Retained,High Value,Gold
+C095,Sneha,53,Male,Chennai,Analyst,Medium,2023-07-25,2023-12-14,8,4455,35640,Fashion,Offline,New,70,7,Churned,High Value,Gold
+C096,Sneha,47,Female,Chennai,Doctor,Medium,2023-03-05,2023-06-21,9,4618,41562,Grocery,App,Returning,51,5,Churned,High Value,Silver
+C097,Amit,25,Female,Mumbai,Engineer,High,2022-08-01,2023-06-21,5,4889,24445,Fashion,Online,New,53,4,At Risk,Low Value,Silver
+C098,Divya,19,Male,Hyderabad,Student,High,2024-01-22,2024-08-11,4,2530,10120,Home,Online,Returning,78,2,Churned,High Value,Bronze
+C099,Amit,44,Male,Mumbai,Analyst,High,2023-01-31,2023-11-10,19,4427,84113,Home,Offline,Returning,84,5,Churned,High Value,Bronze
+C100,Rahul,19,Male,Delhi,Analyst,High,2023-10-20,2024-06-09,11,1193,13123,Grocery,Offline,Returning,73,7,At Risk,Low Value,Silver

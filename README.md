@@ -111,9 +111,10 @@ Identify profitable customer segments
 Optimize marketing campaigns
 Increase customer lifetime value (CLV)
 
-📷 Dashboard Preview
+## 📁 Project Files
 
-Customer_Segmentation_Retention_Analytics.pbix
-Dashboard_Overview.png
-customer_segmentation_dataset.csv
+- 📊 Power BI Report File (.pbix): [Download Dashboard](https://github.com/<your-username>/<repo-name>/blob/main/Customer_Segmentation_Retention_Analytics.pbix)
 
+- 📷 Dashboard Preview Image: [View Screenshot](https://github.com/<your-username>/<repo-name>/blob/main/Dashboard_Overview.png)
+
+- 📊 Dataset File: [Download Dataset](https://github.com/<your-username>/<repo-name>/blob/main/customer_segmentation_dataset.csv)

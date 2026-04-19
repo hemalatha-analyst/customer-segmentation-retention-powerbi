@@ -111,7 +111,11 @@ Identify profitable customer segments
 Optimize marketing campaigns
 Increase customer lifetime value (CLV)
 
-## 📁 Project Files
-[Open Power BI File](https://github.com/your-username/your-repo/blob/main/Customer_Segmentation_Retention_Analytics.pbix)
-[Download Dataset](https://github.com/your-username/your-repo/blob/main/customer_segmentation_dataset.csv)
-[Dashboard Preview](Dashboard_Overview.png)
+## 📁 Project Resources
+
+- 📊 Power BI Dashboard File → [Open PBIX](https://github.com/hemalatha-analyst/customer-segmentation-retention-powerbi/blob/main/Customer_Segmentation_Retention_Analytics.pbix)
+
+- 📷 Dashboard Preview → [View Screenshot](https://github.com/hemalatha-analyst/customer-segmentation-retention-powerbi/blob/main/Dashboard_Overview.png)
+
+- 📊 Dataset → [Download CSV](https://github.com/hemalatha-analyst/customer-segmentation-retention-powerbi/blob/main/customer_segmentation_dataset.csv)
+  

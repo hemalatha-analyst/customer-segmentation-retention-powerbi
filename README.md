@@ -110,8 +110,10 @@ Reduce churn rate
 Identify profitable customer segments
 Optimize marketing campaigns
 Increase customer lifetime value (CLV)
+
 📷 Dashboard Preview
 
-Add your screenshot here:
+Customer_Segmentation_Retention_Analytics.pbix
+Dashboard_Overview.png
+customer_segmentation_dataset.csv
 
-![Dashboard Preview](dashboard.png)

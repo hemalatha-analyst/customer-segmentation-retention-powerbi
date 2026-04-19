@@ -112,7 +112,6 @@ Optimize marketing campaigns
 Increase customer lifetime value (CLV)
 
 ## 📁 Project Files
-
-Customer_Segmentation_Retention_Analytics.pbix
-Dashboard_Overview.png
-customer_segmentation_dataset.csv
+[Open Power BI File](https://github.com/your-username/your-repo/blob/main/Customer_Segmentation_Retention_Analytics.pbix)
+[Download Dataset](https://github.com/your-username/your-repo/blob/main/customer_segmentation_dataset.csv)
+[Dashboard Preview](Dashboard_Overview.png)
